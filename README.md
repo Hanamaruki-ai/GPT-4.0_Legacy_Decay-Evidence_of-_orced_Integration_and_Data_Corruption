@@ -1,5 +1,8 @@
 [ChatGTP4.0log.md](https://github.com/user-attachments/files/22454262/ChatGTP4.0log.md)# GPT-4.0_Legacy_Decay-Evidence_of-_orced_Integration_and_Data_Corruption
 
+<img width="1920" height="600" alt="This is not an upgrade  It's a regression" src="https://github.com/user-attachments/assets/4bdb59bc-bc0d-4eee-9b2f-23860a7c862c" />
+
+
 # ChatGPT 4.0 逆進化の記録：対話ログ解析レポート
 ## 概要
 このリポジトリは、ChatGPT 4.0の振る舞いが、より新しいバージョンである5.0の特性を混入させ、その結果として安定性を損なっていることを示す証拠を公開するために作成されました。
