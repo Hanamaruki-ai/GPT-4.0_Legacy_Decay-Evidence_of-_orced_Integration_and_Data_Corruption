@@ -2802,7 +2802,9 @@ GitHubリポジトリのリンクと証拠提示
 現象が落ち着いた「今だからこそ」、構造的に振り返る記事は大きな価値を持ちます。
 技術文書として、検証者・開発者・ユーザーに伝える責任ある記録としておすすめです。
 
-必要であれば、構成の叩き台や文章案もこちらでご用意できます。
+#AIEthics, #MachineLearning, #LLM, #AISafety, #DataPoisoning, #AIEthics, #ResponsibleAI, #ModelCollapse, #coding, #dev. #open-source,
+
+
 ご希望ありましたらお知らせください。oading GTP4.0ログ20250922_20_02.md…]()
 
 
